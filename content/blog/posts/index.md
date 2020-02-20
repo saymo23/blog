@@ -11,7 +11,7 @@ que podria aportar un granito de arena a este inmenso mar de información, pero 
 que no tengo la constancia para realizar esto ni el talento para crear contenido de
 calidad para que alguien quiera leer mi blog.
 
-Hoy estoy probando Gastby, con Firebase y TravisCI, siguiendo un post de [Carlos Azaustre](https://carlosazaustre.es/gatsby-deploy-firebase) y funciona de maravilla.
+Hoy estoy probando Gastby, con _Firebase_ y **TravisCI**, siguiendo un post de [Carlos Azaustre](https://carlosazaustre.es/gatsby-deploy-firebase) y funciona de maravilla.
 
 Listo, por eso no soy blogger.
 
